@@ -18,6 +18,7 @@ header {
     padding-top: 30px;
     min-height: 70px;
     border-bottom: #000 3px solid;
+    border-top: #000 6px solid;
 }
 
 header a {
