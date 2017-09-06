@@ -13,7 +13,7 @@ body {
 }
 
 header {
-    background: #4c4947;
+    background: #82f0ff;
     color: #fff;
     padding-top: 30px;
     min-height: 70px;
@@ -58,6 +58,6 @@ header .highlight, header .current a{
 }
 
 #showcase {
-    min-height: 900px;
-    background: url('./img/rider.jpg') no-repeat 0 -300px;
+    min-height: 500px;
+    background: url('./img/rider.jpg') no-repeat 0 -600px;
 }
