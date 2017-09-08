@@ -60,5 +60,5 @@ header .highlight, header .current a{
 
 #showcase {
     min-height: 600px;
-    background: url('./img/rider.jpg') no-repeat 0 -700px;
+    background: url('../img/rider.jpg') no-repeat 0 -700px;
 }
