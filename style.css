@@ -59,7 +59,7 @@ header .highlight, header .current a{
 
 header a:hover{
     color: #ccc;
-    font-weight: bold;
+    font-weight: capitalize;
 }    
 
 #showcase{
