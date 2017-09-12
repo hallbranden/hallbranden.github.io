@@ -63,8 +63,8 @@ header a:hover{
 }    
 
 #showcase{
-    min-height: 900px;
+    min-height: 400px;
+    background: url('./img/rider.jpg') no-repeat 0 -400px;
     text-align: center;
-    color: #000;
-    background: cover;
+    color: #fff;
 }    
