@@ -61,11 +61,3 @@ header a:hover{
     color: #ccc;
     font-weight: capitalize;
 }    
-
-#showcase{
-    min-height: 666px;
-    background: url('rider.jpg') no-repeat 0 -800px;
-    text-align: center;
-    color: #fff;
-    background: cover;
-}    
