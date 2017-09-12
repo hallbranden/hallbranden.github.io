@@ -67,4 +67,5 @@ header a:hover{
     background: url('rider.jpg') no-repeat 0 -1000px;
     text-align: center;
     color: #fff;
+    background: cover;
 }    
