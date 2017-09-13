@@ -1,63 +1,72 @@
-body {
-    line-height: 1.5;
-    font: 15px/1.5 Arial, Helvetica, sans-serif;
-    padding: 0;
-    margin: 0;
-    background-color: #f4f4f4;
+body{
+    
+    font: 15px/1.5 Arial,Helvetica, sans-serif
+    padding:0;
+    margin:0;
+    background-color:white;
 }
 
-.container {
-    width: 80%;
-    margin: auto;
-    overflow: hidden;
+p{
+    padding: 20;
+}
+.container{
+    width:80%;
+    margin:auto;
+    overflow:hidden;
+}
+header ul{
+    margin:0;
+    padding:0;
+/* Header */
+}
+    
+header{
+    background:#353333;
+    color:black;
+    padding-top:30px;
+    min-height:70px;
+    border-bottom:#bca012 3px solid;
 }
 
-header {
-    background: #82f0ff;
-    color: #fff;
-    padding-top: 30px;
-    min-height: 70px;
-    border-bottom: #000 3px solid;
-    border-top: #000 3px solid;
-}
-
-header a {
-    color: #fff;
+header a{
+    color:white;
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 16px;
-}
-
-header ul{
-    margin: 0;
-    padding: 0;
+    font-size:16px;
 }
 
 header li{
-    float: left;
-    display: inline;
-    padding: 0 20px;
+    display:inline;
+    padding: 0 20px 0 20px;
 }
+
 
 header #branding{
     float: left;
 }
 
-header #branding h1{
-    margin: 0;
-}
-
-header nav {
+header nav{
     float: right;
-    margin-top: 10px;
 }
 
-header .highlight, header .current a{
-    color: #000;
-    font-weight: bold;
+#boxes{
+    margin-top:top;
 }
 
-header a:hover{
-    color: #ccc;
-    font-weight: capitalize;
-}   
+/* Boxes */
+
+#boxes .boxes{
+    margin-top:
+}
+
+#boxes .box{
+ float:left;
+padding:10; 
+width:30%;
+text-align: center
+{
+<<<<<<< HEAD
+    
+    
+=======
+>>>>>>> 0237442e00eed9c2093f029e02118e7d51ef8c40
