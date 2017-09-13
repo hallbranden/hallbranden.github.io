@@ -1,5 +1,4 @@
 body{
-    
     font: 15px/1.5 Arial,Helvetica, sans-serif
     padding:0;
     margin:0;
@@ -9,6 +8,7 @@ body{
 p{
     padding: 20;
 }
+
 .container{
     width:80%;
     margin:auto;
@@ -17,7 +17,6 @@ p{
 header ul{
     margin:0;
     padding:0;
-/* Header */
 }
     
 header{
