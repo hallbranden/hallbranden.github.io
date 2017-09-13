@@ -60,9 +60,4 @@ header .highlight, header .current a{
 header a:hover{
     color: #ccc;
     font-weight: capitalize;
-}    
-
-#showcase {
-    max-width: 100%;
-    height: auto;
-}
+}   
