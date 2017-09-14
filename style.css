@@ -24,7 +24,8 @@ header{
     color:black;
     padding-top:30px;
     min-height:70px;
-    border-bottom:#bca012 3px solid;
+    border-bottom:#ff000c 3px solid;
+    border-top:#ff000c 3px solid;
 }
 
 header a{
